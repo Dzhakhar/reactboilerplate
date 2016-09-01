@@ -1,5 +1,5 @@
 # reactboilerplate
-React Boilerplate
+React + Webpack + Babel boilerplate
 
 ```
 npm install
