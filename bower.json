@@ -1,0 +1,17 @@
+{
+  "name": "prje",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "Dzhakhar Ukhaev"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Dzhakhar/reactboilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
